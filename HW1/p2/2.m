@@ -7,6 +7,5 @@ function plot_function()
     x = [x0 x1];
     y = [y0 y1];
     plot(x, y)
-    input("Salam");
 endfunction
 plot_function()

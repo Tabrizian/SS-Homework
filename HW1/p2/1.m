@@ -9,6 +9,5 @@ function plot_function()
     x = [x0 x1 x2];
     y = [y0 y1 y2];
     plot(x, y)
-    input("Salam");
 endfunction
 plot_function()
